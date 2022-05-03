@@ -1,4 +1,4 @@
-# PhD-Proposal-Files
+# PhDProposalFiles
 Model desecription of project 2b
 
 We propose a model of cultural evolution in which cultural traits, hereafter referred to as "tools," occur in specialized and in non-specialized populations. 
